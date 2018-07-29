@@ -3,7 +3,7 @@ It's a simple counting system with initialization date, starting point, comma an
 
 ## How it works
 ```
- <span id="counter" data-start="2553000" data-interval="4000" data-unit="minutes" data-separator="."></span>
+ <span id="counter" data-init="July 28, 2018 11:13:00" data-start="2553000" data-interval="4000" data-unit="minutes" data-separator="."></span>
 ``` 
  * data-init : initial date
  * data-start : counter initial value
